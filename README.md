@@ -4,11 +4,13 @@ API de agendamentos veterinários para o Projeto Prático 1 de Engenharia de Sof
 
 **Dupla** · Davi Dutra Satler e Willian Valadares Ramos Júnior.
 
+[Repositório no GitHub](https://github.com/DaviSatler/AgendaVet)
+
 Esta versão é uma referência técnica revisada com IA. A avaliação da disciplina exige desenvolvimento e registros próprios da dupla em laboratório. Veja [a relação com os roteiros](CHECKLIST.md).
 
 ## Executar
 
-Extraia o ZIP, entre na pasta `agendavet` e use Node.js 20 ou superior.
+Clone este repositório ou extraia o ZIP do projeto. Use Node.js 20 ou superior.
 
 ```sh
 npm ci

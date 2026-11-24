@@ -25,6 +25,6 @@
 
 - Parte 1. GitHub com acesso para o professor, branches `feature/dominio-solid` e `feature/padroes`, pelo menos seis commits semânticos dos dois alunos, PRs com revisão cruzada e comentário real, merge em `main` e histórico da extensão `BANHO_TOSA`. A folha de bordo inclui o Tribunal do Código e as perguntas da etapa.
 - Parte 2. O mesmo repositório, com a branch `feature/testes`, histórico do TDD Ping-Pong alternado entre os alunos, PR revisado, merge em `main` e tag `v1.0` publicada. A folha de bordo inclui as perguntas de reflexão.
-- Nas duas partes. Requisito-surpresa fornecido pelo professor, folhas de bordo manuscritas, checkpoints vistados e defesa oral com alteração ao vivo.
+- Nas duas partes. Requisito-surpresa fornecido pelo professor, folhas de bordo em Word conforme autorização do professor, checkpoints vistados e defesa oral com alteração ao vivo.
 
 O pacote registra execução técnica assistida. O histórico, as revisões e os registros presenciais dependem da realização e comprovação pela dupla segundo as regras da disciplina.
